@@ -12,3 +12,4 @@ dependencies = [
 
 [tool.poetry]
 package-mode = false
+packages = []
